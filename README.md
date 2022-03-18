@@ -1,77 +1,59 @@
-## Your Name
+## Michael Su
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a aspiring developer currently in the Makers Academy bootcamp!
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Student-Directory            | manage students   | Ruby              |
+| FizzBuzz                     | fizzbuzz          | Ruby              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Golden Castle (Cheshire) Ltd**  
+_Financial Administrator_ (2016 to 2022) 
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Responsible for all financial aspects of the business including dealing with the accountants and suppliers
+- Maintaining up to date sales and purchase ledgers
+- Ensuring monthly/termly invoicing is completed in a timely manner
+- Ability to show good initiative and take ownership of tasks, including stock management
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+_Customer Assistant_ (2011-2016)
 
-- Any experience relevent to software development
+- Maintaining good relationship with customers as evidenced by repeat customers on a regular basis
+- Ability to work under time pressure
+
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Analytical Thinking
 
--STAR
--What was the situation/task? (ST)
+Having a background in Mathematics from studying it at University, I have been able to develop my analytical thinking. Throughout my degree, I was working daily to approach and solve problems using what I had learnt at my disposal. In my job, I am in charge of looking at our financials and keeping track of costs, so that when costs rise due to inflation or other factors, I can make appropriate suggestions to counteract, whether that's by increasing our own prices or otherwise.
 
--How was the skill used?
+#### Working under pressure
 
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+When I was still studying, I was also working and due to this, I have developed the necessary organisational and time management skills which were required of me. As a result of this, despite being in a intensive university course studying Mathematics, I was still able to achieve a First-Class Honours degree.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (February 2022 to present)
+- Currently studying Ruby
+- Pair Programming, TDD, RSpec
 
-#### Your University / College (start_date to end_date)
+#### University of Manchester (September 2013 to July 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- First Class Honours in BSc (Hons) Mathematics 
 
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Ashton Sixth Form College (September 2011 to July 2013)
+
+- A Levels: A* in Accounting
+            A* in Mathematics
+            A in Further Mathematics
+            B in Economics
+- AS Levels: A in Business Studies
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Football: Previously participated in a five-a-side league
