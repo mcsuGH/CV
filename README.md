@@ -7,7 +7,7 @@ Recent graduate from Makers Academy (March 2022 Cohort) - where I grew from an a
 | ---------------------------- | ----------------- | ----------------- |
 | [EdUp](https://github.com/jmcnally17/EdUp) | Improving communication between Schools and Parents  | MongoDB, Express, React, NodeJS |
 | [Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg) | Clone of Facebook | MongoDB, Express, Handlebars, NodeJS |
-| [MakersBnB](https://github.com/monenavarro/makers_bnb) | Clone of AirBnB | PSQL, Ruby, Sinatra |
+| [MakersBnB](https://github.com/mcsuGH/makers_bnb) | Clone of AirBnB | PSQL, Ruby, Sinatra |
 
 
 ## Work Experience
