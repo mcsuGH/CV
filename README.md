@@ -7,14 +7,14 @@ Thanks to the Makers course, I have developed a solid foundation in programming 
 ### Makers Academy
 | Name                         | Description       | Tech/tools        | Additional Info |
 | ---------------------------- | ----------------- | ----------------- | --------------- |
-| [EdUp](https://github.com/jmcnally17/EdUp) | Improving communication between Schools and Parents  | MongoDB, Express, React, NodeJS | [Presentation](https://youtu.be/MnX0ePaLG-I?t=181)
-| [Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg) | Clone of Facebook | MongoDB, Express, Handlebars, NodeJS | |
-| [MakersBnB](https://github.com/monenavarro/makers_bnb) | Clone of AirBnB | PSQL, Ruby, Sinatra | |
+| [EdUp](https://github.com/jmcnally17/EdUp) | Improving communication between Schools and Parents  | MongoDB, Express, React, NodeJS | [Final group project](https://youtu.be/MnX0ePaLG-I?t=181)
+| [Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg) | Clone of Facebook | MongoDB, Express, Handlebars, NodeJS |Second group project |
+| [MakersBnB](https://github.com/monenavarro/makers_bnb) | Clone of AirBnB | PSQL, Ruby, Sinatra |First group project |
 
 ### Others
 | Name                         | Description       | Tech/tools        | Additional Info |
 | ---------------------------- | ----------------- | ----------------- | --------------- |
-| [notEd](https://github.com/mcsuGH/notEdApp) | Keep notes and track events  | MongoDB, Express, React, NodeJS | |
+| [notEd](https://github.com/mcsuGH/notEdApp) | Keep notes and track events  | MongoDB, Express, React, NodeJS |[Solo project for consolidation](https://www.youtube.com/watch?v=JeeGaNxC-Lc) |
 
 
 
