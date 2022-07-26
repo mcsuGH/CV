@@ -50,7 +50,6 @@ In every group project I participated in in the Makers course, my group would al
 We would do this by first planning our project using a Trello board, creating User Stories either from the specification (when given) or from scratch. We would have daily meetups every day, most days as often as three times a day for a quick catch-up. This meant that we had constant communication and would be constantly updated on the progress of each feature that was being worked on. During planning, we would assign each User Story an estimated timeframe - this allowed us to timebox our features and meant that if we got stuck too long on a single feature, we could use a different branch and discuss the blockers in our group meetings.\
 \
 By following agile methodologies, my teams were able to work flexibly and reduce the amount of time that was spent being stuck on a feature, allowing for better productivity and thanks to our constant communication, we would know how different parts of the code worked even without having worked on it ourselves.\
-\
 
 **Great Communicator**\
 I have developed my communication skills by working with customers and suppliers on a daily basis.\
@@ -65,13 +64,11 @@ For our final project as part of the Makers Academy course, collectively as a gr
 I had no prior knowledge on how to use React but I managed to learn it in time (as did my team) which allowed us to meet all of our deadlines whether it was for our MVP or for our final presentation. I was able to do this thanks to the many materials that can be found online, and in particular, the course on [Codecademy](https://www.codecademy.com/learn/react-101).\
 \
 As a result of this, we were able to create the product that we had envisioned and delivered on the features that we had planned.\
-\
 
 **Working under pressure**\
 When I was still studying, I was also working and due to this, I have developed the necessary organisational and time management skills which were required of me.\
 \
 As a result of this, despite being in a intensive university course studying Mathematics, I was still able to achieve a First-Class Honours degree whilst working part-time at my family business, which generally took away most of my evenings/weekends.\
-\
 
 ## Education
 ### University of Manchester (September 2013 to July 2016)
