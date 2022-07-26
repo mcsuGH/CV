@@ -15,7 +15,7 @@ During the Makers course, I developed a solid foundation in programming principl
 | Name                         | Description       | Tech/tools        | Additional Info |
 | ---------------------------- | ----------------- | ----------------- | --------------- |
 | [notEd](https://github.com/mcsuGH/notEdApp) | Keep notes and track events on Calendar | MongoDB, Express, React, NodeJS |[Project for consolidation](https://www.youtube.com/watch?v=JeeGaNxC-Lc) |
-| [Bank Tech Test](https://github.com/mcsuGH/Bank-Tech-Test) | Bank Account with simple functionality  | JavaScript |First group project |
+| [Bank Tech Test](https://github.com/mcsuGH/Bank-Tech-Test) | Bank Account with simple functionality  | JavaScript |Practice Tech Test |
 
 ## Experience
 **Makers Academy**  
